@@ -1,2 +1,16 @@
-# Library-management-system-
-Library management is a simple web based application used to manage basic library application such as adding and viewing book details 
+# Library Management System
+
+A simple Library Management System created using HTML, CSS, and JavaScript.
+
+## Features
+- Add Book Name
+- Add Author Name
+- Display Available Books
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- GitHub Pages
+
+
